@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/zVWR56L/Rectangle-2.png",
+      "title": "Introduction to Programming",
+      "about": "Learn the fundamentals of programming with this introductory course.",
+      "price": 49.99,
+      "credit_hour": 3
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/XsM2tHy/Rectangle-2-1.png",
+      "title": "Data Analysis with Python",
+      "about": "Master data analysis using Python and popular data science libraries.",
+      "price": 79.99,
+      "credit_hour": 4
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/gV9BLhw/Rectangle-2-2.png",
+      "title": "Web Development Bootcamp",
+      "about": "Become a full-stack web developer in this intensive bootcamp.",
+      "price": 149.99,
+      "credit_hour": 8
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/1KyD7mZ/Rectangle-2-3.png",
+      "title": "Digital Marketing Strategies",
+      "about": "Learn effective digital marketing strategies for businesses.",
+      "price": 69.99,
+      "credit_hour": 5
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/hW14kPQ/Rectangle-2-4.png",
+      "title": "Graphic Design Fundamentals",
+      "about": "Explore the basics of graphic design and create stunning visuals.",
+      "price": 59.99,
+      "credit_hour": 4
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/VTHz4MK/Rectangle-2-5.png",
+      "title": "Artificial Intelligence Essentials",
+      "about": "Dive into the world of AI and machine learning with this course.",
+      "price": 89.99,
+      "credit_hour": 6
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/5jLw0Hf/Rectangle-2-6.png",
+      "title": "Financial Planning and Investing",
+      "about": "Learn how to plan your finances and make smart investment decisions.",
+      "price": "$99.99",
+      "credit_hour": 7
+    },
+    {
+      "id": "8",
+      "cover": "https://i.ibb.co/1v9F9rL/Rectangle-3.png",
+      "title": "Photography for Beginners",
+      "about": "Start your journey into photography with this beginner-friendly course.",
+      "price": "$49.99",
+      "credit_hour": 3
+    },
+    {
+      "id": "9",
+      "cover": "https://i.ibb.co/z24bMhP/Rectangle-3-1.png",
+      "title": "Business Ethics and Leadership",
+      "about": "Explore ethical decision-making and leadership principles in business.",
+      "price": "$59.99",
+      "credit_hour": 4
+    }
+  ]
+  

@@ -1,0 +1,203 @@
+[
+    {
+      "ContestName": "CodeMaster Challenge",
+      "Image": "codemaster.jpg",
+      "Description": "Participate in the CodeMaster Challenge and showcase your coding skills to solve a diverse set of challenging problems. This contest is open to programmers of all levels, from beginners to seasoned developers. Join us for an exciting coding journey!",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$5,000",
+      "TaskSubmissionTextInstruction": "Submit your code solution in a compressed file.",
+      "Category": "Programming",
+      "Deadline": "2024-03-15"
+    },
+    {
+      "ContestName": "Capture the Moment",
+      "Image": "capture.jpg",
+      "Description": "Capture the Moment is a photography contest that invites shutterbugs from around the world to share their best photographic moments. Whether it's a breathtaking landscape, a candid portrait, or a powerful photo story, we want to see your unique perspective through the lens.",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$2,000",
+      "TaskSubmissionTextInstruction": "Upload your high-resolution photos with a brief description.",
+      "Category": "Photography",
+      "Deadline": "2024-04-20"
+    },
+    {
+      "ContestName": "WordCraft Challenge",
+      "Image": "wordcraft.jpg",
+      "Description": "Embrace the power of words in the WordCraft Challenge. Pen down your creativity, whether it's a captivating story, an insightful article, or a collection of poems. Unleash your imagination and let your words take center stage in this writing extravaganza.",
+      "ContestPrice": "$10",
+      "PrizeMoney": "$3,500",
+      "TaskSubmissionTextInstruction": "Submit your original story or article with a minimum of 500 words.",
+      "Category": "Writing",
+      "Deadline": "2024-02-28"
+    },
+    {
+      "ContestName": "Palette Dreams",
+      "Image": "palette.jpg",
+      "Description": "Express yourself through the vibrant colors of Palette Dreams. This art contest welcomes artists of all mediums – paintings, drawings, digital art, and more. Share your unique creations and the inspiration behind them in this celebration of artistic expression.",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$4,000",
+      "TaskSubmissionTextInstruction": "Upload a high-quality image of your artwork with a brief artist statement.",
+      "Category": "Art",
+      "Deadline": "2024-05-10"
+    },
+    {
+      "ContestName": "Melody Masters",
+      "Image": "melody.jpg",
+      "Description": "Melody Masters is a platform for music enthusiasts to showcase their talent and original compositions. Whether you're a solo artist, part of a band, or a composer, share your musical creations with the world. Let the melodies speak and captivate the audience.",
+      "ContestPrice": "$5",
+      "PrizeMoney": "$6,000",
+      "TaskSubmissionTextInstruction": "Submit an audio file or link to your original music composition.",
+      "Category": "Music",
+      "Deadline": "2024-03-31"
+    },
+    {
+      "ContestName": "Culinary Delights",
+      "Image": "culinary.jpg",
+      "Description": "Culinary Delights is a feast for food enthusiasts. Showcase your culinary skills by presenting a mouthwatering dish. From gourmet creations to comfort food, share your recipe, images, and the story behind your delectable creation.",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$2,500",
+      "TaskSubmissionTextInstruction": "Share a recipe, images, and a description of your dish.",
+      "Category": "Cooking",
+      "Deadline": "2024-04-15"
+    },
+    {
+      "ContestName": "Fit & Fabulous",
+      "Image": "fitness.jpg",
+      "Description": "Join the Fit & Fabulous challenge and share your fitness journey with the world. Whether it's a transformation story, workout routine, or health tips, inspire others to embrace a healthy lifestyle. Let's celebrate the journey to a fit and fabulous you!",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$1,500",
+      "TaskSubmissionTextInstruction": "Submit before and after photos along with your fitness journey description.",
+      "Category": "Fitness",
+      "Deadline": "2024-06-01"
+    },
+    {
+      "ContestName": "Scientific Minds Quiz",
+      "Image": "science.jpg",
+      "Description": "Challenge your intellect in the Scientific Minds Quiz. This quiz covers a wide range of scientific topics, from physics to biology. Test your knowledge and compete with fellow science enthusiasts. Are you ready to be crowned the Scientific Mind of the Year?",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$1,000",
+      "TaskSubmissionTextInstruction": "Complete the online quiz with accurate answers.",
+      "Category": "Science",
+      "Deadline": "2024-03-10"
+    },
+    {
+      "ContestName": "Style Maven Showcase",
+      "Image": "fashion.jpg",
+      "Description": "Style Maven Showcase is a fashion extravaganza that invites trendsetters to flaunt their unique style. Whether it's haute couture, street fashion, or experimental looks, showcase your fashion-forward creations and make a statement in the world of style.",
+      "ContestPrice": "$7",
+      "PrizeMoney": "$3,000",
+      "TaskSubmissionTextInstruction": "Upload high-quality photos showcasing your fashion style.",
+      "Category": "Fashion",
+      "Deadline": "2024-05-05"
+    },
+    {
+      "ContestName": "Virtual Battle Arena",
+      "Image": "gaming.jpg",
+      "Description": "Enter the Virtual Battle Arena and compete with gamers from around the world. Whether you're a strategy master, FPS expert, or MOBA enthusiast, this gaming tournament is your chance to prove your skills and emerge victorious in the virtual realm.",
+      "ContestPrice": "$3",
+      "PrizeMoney": "$8,000",
+      "TaskSubmissionTextInstruction": "Register and participate in the online gaming tournament.",
+      "Category": "Gaming",
+      "Deadline": "2024-04-25"
+    },
+    {
+      "ContestName": "Groove Fusion Dance Off",
+      "Image": "dance.jpg",
+      "Description": "Get ready to dance your heart out in the Groove Fusion Dance Off. This contest invites dancers of all styles to showcase their moves and creativity. Whether it's hip-hop, salsa, or contemporary, let your passion for dance shine on the virtual stage.",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$2,000",
+      "TaskSubmissionTextInstruction": "Submit a video showcasing your dance routine.",
+      "Category": "Dance",
+      "Deadline": "2024-03-20"
+    },
+    {
+      "ContestName": "Crafty Creations DIY",
+      "Image": "diy.jpg",
+      "Description": "Crafty Creations DIY is a celebration of do-it-yourself projects. From home decor to gadgets, showcase your creativity by sharing step-by-step guides and images of your DIY projects. Inspire others to embark on their own crafting adventures.",
+      "ContestPrice": "$5",
+      "PrizeMoney": "$4,500",
+      "TaskSubmissionTextInstruction": "Upload images and a step-by-step guide for your DIY project.",
+      "Category": "DIY",
+      "Deadline": "2024-06-10"
+    },
+    {
+      "ContestName": "Polyglot Translation Battle",
+      "Image": "translation.jpg",
+      "Description": "Dive into the world of languages in the Polyglot Translation Battle. Test your linguistic prowess by accurately translating a given text. Whether you're fluent in one language or many, this contest is your chance to showcase your translation skills.",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$1,200",
+      "TaskSubmissionTextInstruction": "Submit the translated text in a specified format.",
+      "Category": "Language",
+      "Deadline": "2024-04-05"
+    },
+    {
+      "ContestName": "VR Artistry Showcase",
+      "Image": "vrart.jpg",
+      "Description": "Immerse yourself in the world of virtual reality art in the VR Artistry Showcase. Create awe-inspiring VR experiences and share your artistic vision with the world. Whether it's a virtual gallery or an interactive experience, let your creativity shine.",
+      "ContestPrice": "$8",
+      "PrizeMoney": "$6,500",
+      "TaskSubmissionTextInstruction": "Submit a video or a link to your VR art creation.",
+      "Category": "Virtual Reality",
+      "Deadline": "2024-05-15"
+    },
+    {
+      "ContestName": "Math Wizards Olympiad",
+      "Image": "math.jpg",
+      "Description": "Embark on a journey of mathematical discovery in the Math Wizards Olympiad. Solve complex mathematical problems and compete with other math enthusiasts. From algebra to calculus, showcase your problem-solving skills and be crowned the Math Wizard.",
+      "ContestPrice": "$10",
+      "PrizeMoney": "$2,800",
+      "TaskSubmissionTextInstruction": "Submit your solutions to the provided mathematical problems.",
+      "Category": "Mathematics",
+      "Deadline": "2024-03-05"
+    },
+    {
+      "ContestName": "Green Earth Initiative",
+      "Image": "environment.jpg",
+      "Description": "Join the Green Earth Initiative and create projects that promote environmental awareness and sustainability. Whether it's a community cleanup, a recycling program, or an educational campaign, share your initiatives to make the world a greener place.",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$3,000",
+      "TaskSubmissionTextInstruction": "Submit a presentation or video about your environmental project.",
+      "Category": "Environmental",
+      "Deadline": "2024-06-20"
+    },
+    {
+      "ContestName": "Grandmaster Chess Challenge",
+      "Image": "chess.jpg",
+      "Description": "Strategize, plan, and checkmate in the Grandmaster Chess Challenge. Showcase your chess skills in a competitive online tournament. Whether you're a seasoned player or a budding grandmaster, this is your chance to make bold moves on the virtual chessboard.",
+      "ContestPrice": "$5",
+      "PrizeMoney": "$4,500",
+      "TaskSubmissionTextInstruction": "Register and participate in the online chess tournament.",
+      "Category": "Chess",
+      "Deadline": "2024-04-15"
+    },
+    {
+      "ContestName": "RoboTech Showdown",
+      "Image": "robotics.jpg",
+      "Description": "Gear up for the RoboTech Showdown and showcase your robotics prowess. Design and build innovative robots for a thrilling competition. Whether it's a battle bot or a helpful companion, let your robotic creations take center stage.",
+      "ContestPrice": "$15",
+      "PrizeMoney": "$7,000",
+      "TaskSubmissionTextInstruction": "Submit a video showcasing your robot in action and its specifications.",
+      "Category": "Robotics",
+      "Deadline": "2024-05-30"
+    },
+    {
+      "ContestName": "Wanderlust Captures",
+      "Image": "travel.jpg",
+      "Description": "Embark on a visual journey in Wanderlust Captures. Share your best travel photographs from around the world, whether it's stunning landscapes, vibrant cultures, or memorable experiences. Let your photos inspire others to explore the wonders of the world.",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$2,500",
+      "TaskSubmissionTextInstruction": "Upload high-resolution travel photos along with a brief travelogue.",
+      "Category": "Travel",
+      "Deadline": "2024-03-25"
+    },
+    {
+      "ContestName": "Starry Night Marvels",
+      "Image": "astrophotography.jpg",
+      "Description": "Capture the mesmerizing beauty of the night sky in Starry Night Marvels. Share your high-quality astrophotographs capturing celestial objects, star trails, and cosmic wonders. Illuminate the universe through your lens and share the magic of the night.",
+      "ContestPrice": "Free",
+      "PrizeMoney": "$3,200",
+      "TaskSubmissionTextInstruction": "Submit high-quality astrophotographs along with equipment details.",
+      "Category": "Astrophotography",
+      "Deadline": "2024-06-05"
+    }
+  ]
+  
