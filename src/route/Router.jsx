@@ -43,7 +43,7 @@ const router = createBrowserRouter([
         path: "/allcontest",
         element: <Allcontest></Allcontest>,
         loader: () =>
-          fetch("https://server-side-nine-ashen.vercel.app/contestcount"),
+          fetch("https://contest-server-side.vercel.app/contestcount"),
       },
       {
         path: "/course",
@@ -58,7 +58,7 @@ const router = createBrowserRouter([
         ),
         loader: ({ params }) =>
           fetch(
-            `https://server-side-nine-ashen.vercel.app/singlecontest/${params.id}`
+            `https://contest-server-side.vercel.app/singlecontest/${params.id}`
           ),
       },
       {
@@ -74,8 +74,7 @@ const router = createBrowserRouter([
       {
         path: "mycontest",
         element: <Mycontest></Mycontest>,
-        loader: () =>
-          fetch("https://server-side-nine-ashen.vercel.app/mycontest"),
+        loader: () => fetch("https://contest-server-side.vercel.app/mycontest"),
       },
       {
         path: "payment",
@@ -120,7 +119,7 @@ const router = createBrowserRouter([
         element: <Updatecontest></Updatecontest>,
         loader: ({ params }) =>
           fetch(
-            `https://server-side-nine-ashen.vercel.app/singlecontest/${params.id}`
+            `https://contest-server-side.vercel.app/singlecontest/${params.id}`
           ),
       },
       {

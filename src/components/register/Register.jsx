@@ -45,7 +45,7 @@ const Register = () => {
 
     const item = { displayName, email, photoURL, password };
 
-    fetch("https://server-side-nine-ashen.vercel.app/user", {
+    fetch("https://contest-server-side.vercel.app/user", {
       method: "post",
       headers: {
         "content-type": "application/json",

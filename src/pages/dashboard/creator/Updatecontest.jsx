@@ -45,7 +45,7 @@ const Updatecontest = () => {
       Deadline,
       email,
     };
-    fetch(`https://server-side-nine-ashen.vercel.app/singlecontest/${_id}`, {
+    fetch(`https://contest-server-side.vercel.app/singlecontest/${_id}`, {
       method: "put",
       headers: {
         "content-type": "application/json",

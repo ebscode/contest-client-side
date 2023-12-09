@@ -3,7 +3,7 @@
 import axios from "axios";
 
 // const axiouspublic=axios.create(({
-//     baseURL:'https://server-side-nine-ashen.vercel.app'
+//     baseURL:'https://contest-server-side.vercel.app'
 // }))
 
 // const useaxiospublic = () => {
@@ -13,7 +13,7 @@ import axios from "axios";
 // export default useaxiospublic;
 
 const axiouspublic = axios.create({
-  baseURL: "https://server-side-nine-ashen.vercel.app",
+  baseURL: "https://contest-server-side.vercel.app",
 });
 
 const useaxiouspublic = () => {

@@ -32,7 +32,7 @@ const Addcontest = () => {
     };
     console.log(item);
 
-    fetch("https://server-side-nine-ashen.vercel.app/contest", {
+    fetch("https://contest-server-side.vercel.app/contest", {
       method: "post",
       headers: {
         "content-type": "application/json",

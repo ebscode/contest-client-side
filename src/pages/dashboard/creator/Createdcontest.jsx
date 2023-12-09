@@ -17,7 +17,7 @@ const Createdcontest = () => {
       confirmButtonText: "Yes, delete it!",
     }).then((result) => {
       if (result.isConfirmed) {
-        fetch(`https://server-side-nine-ashen.vercel.app/singlecontest/${id}`, {
+        fetch(`https://contest-server-side.vercel.app/singlecontest/${id}`, {
           method: "DELETE",
         })
           .then((res) => res.json())

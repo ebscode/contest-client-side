@@ -47,7 +47,7 @@ const Thriling = () => {
     >
        <Countdown
                 renderer={renderer}
-                date={Date.now() + 100000000}
+                date={Date.now() + 1000000000}
               ></Countdown>
     </button>
   </div>
