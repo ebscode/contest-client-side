@@ -9,6 +9,15 @@
 * site has three different user system admin,moderator ,regular user (contest participator)
 * this project base on M E R N technology
 
-# feature
+
+
+#Project selling line
+*Motivate and reward talent by organizing contests with prizes and recognition on Contest Fest*
+
+
+
+## feature
 1. Unveiling Dual Themes in Contest Fest Seamlessly switch between two visually distinct themes for a personalized and inclusive user experience.
 2. Elevate user engagement with dynamic UI transitions through React-Type Animation in contest fest
+
+   
