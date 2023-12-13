@@ -11,8 +11,8 @@
 
 
 
-#Project selling line
-*Motivate and reward talent by organizing contests with prizes and recognition on Contest Fest*
+# Project selling line
+* Motivate and reward talent by organizing contests with prizes and recognition on Contest Fest *
 
 
 
