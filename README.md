@@ -7,4 +7,8 @@
 *  the website is optimized for mobile devices for a seamless user experience
 * If there are entry fees or payment-related aspects, ensure a secure and reliable payment system
 * site has three different user system admin,moderator ,regular user (contest participator)
-* this project base on M E R N technology 
+* this project base on M E R N technology
+
+# feature
+1. Unveiling Dual Themes in Contest Fest Seamlessly switch between two visually distinct themes for a personalized and inclusive user experience.
+2. Elevate user engagement with dynamic UI transitions through React-Type Animation in contest fest
